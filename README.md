@@ -81,8 +81,4 @@ Multi-crop comparison dashboard
 
 AI chatbot for interactive crop consultation
 
-@@ Contributors
 
-[Your Name] — Developer & Data Scientist
-
-OpenAI / Scikit-learn — AI & ML Frameworks
